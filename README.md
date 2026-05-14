@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--              👋 ENCABEZADO PRINCIPAL              -->
-<!-- ══════════════════════════════════════════════════ -->
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5BTu+Nombre%5D+%F0%9F%91%8B;Full+Stack+Developer;Builder+de+soluciones+%F0%9F%9A%80;Open+to+Work+%F0%9F%92%BC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Manuel+Romero+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Frontend+lover+%26+UI+enthusiast+%F0%9F%8E%A8;Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez+%E2%9A%A1)
 
 <br/>
 
-<!-- ════ BADGES DE ESTADO ════ -->
 ![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Disponible-brightgreen?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_Ubicación-Colombia_🇨🇴-blue?style=for-the-badge&labelColor=0d1117)
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=58a6ff&label=Visitas+al+perfil)
+![Student](https://img.shields.io/badge/🎓_Ing._Sistemas-8vo_Semestre-blue?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Ubicación-Colombia_🇨🇴-orange?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=romerocts&style=for-the-badge&color=58a6ff&label=Visitas)
 
 </div>
 
@@ -20,23 +16,23 @@
 ## 🧑‍💻 Sobre mí
 
 ```typescript
-const dev = {
-  nombre:       "Tu Nombre",
-  rol:          "Full Stack Developer",
-  ubicacion:    "Colombia 🇨🇴",
-  disponible:   true,
-  buscando:     "Oportunidad remota / presencial Full Stack",
-  aprendiendo:  ["Cloud AWS", "AI/ML", "Arquitectura de microservicios"],
-  hobbies:      ["café ☕", "open source", "gaming 🎮", "leer sobre tech"],
-  contacto:     "tucorreo@email.com",
+const manuel = {
+  nombre:     "Manuel Romero",
+  rol:        "Full Stack Developer",
+  carrera:    "Ingeniería de Sistemas — 8vo Semestre",
+  pasion:     "Frontend, diseño web & optimización de procesos",
+  buscando:   "Prácticas / Junior / Freelance 💼",
+  superpoder: "Optimizar procesos para mejorar el rendimiento ⚡",
+  github:     "https://github.com/romerocts",
 };
 ```
 
-- 🔭 Actualmente trabajando en **proyectos freelance y contribuciones open source**
-- 🌱 Aprendiendo **Cloud, DevOps y arquitecturas escalables**
-- 💬 Pregúntame sobre **React, Node.js, Python, bases de datos, APIs REST**
-- 🤝 Abierto a **colaboraciones, proyectos freelance y oportunidades full-time**
-- ⚡ Fun fact: *Escribo código más rápido con café que sin él*
+- 🎨 Apasionado por el **diseño y desarrollo frontend** con React + TypeScript
+- 🚀 Desarrollo aplicaciones **full stack** con Node.js, Supabase y Firebase
+- 📱 Experiencia construyendo **apps móviles** con Flutter/Dart
+- 📊 Buen manejo de **análisis de datos**, consumo de APIs REST y Power BI
+- ⚡ Me obsesiona **optimizar procesos** para mejorar el rendimiento de cualquier sistema
+- 🤝 Abierto a **prácticas, freelance y oportunidades junior**
 
 ---
 
@@ -45,27 +41,30 @@ const dev = {
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### Backend & Bases de Datos
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Móvil & Análisis de Datos
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Herramientas
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -73,25 +72,25 @@ const dev = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romerocts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romerocts&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=romerocts&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Trofeos GitHub
+## 🏆 Trofeos
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=romerocts&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -101,12 +100,26 @@ const dev = {
 
 <div align="center">
 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/TU_USUARIO/NOMBRE_REPO_1)
-[![AI Chat App](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/TU_USUARIO/NOMBRE_REPO_2)
+[![SaaS E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=romerocts&repo=saas-ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/romerocts/saas-ecommerce)
+[![NutriCare](https://github-readme-stats.vercel.app/api/pin/?username=romerocts&repo=nutricare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9)](https://github.com/romerocts/nutricare)
 
 </div>
 
-> 💡 **¿Quieres ver más?** Revisa mis [repositorios públicos →](https://github.com/TU_USUARIO?tab=repositories)
+### 📌 Descripción de Proyectos
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🛒 **SaaS E-Commerce** | Plataforma SaaS para emprendedores emergentes. Gestión de tienda, productos y ventas en línea. | React · Node.js · Supabase |
+| 📱 **NutriCare** | App móvil de nutrición y salud. Seguimiento de hábitos, análisis nutricional y metas personales. | Flutter · Dart · Supabase |
+| ✅ **To-Do App** | Gestor de tareas moderno con filtros, prioridades, etiquetas y persistencia de datos. | React · TypeScript · Vite |
+
+> 💡 **¿Quieres ver más?** → [Ver todos mis repositorios](https://github.com/romerocts?tab=repositories)
+
+---
+
+## 📈 Actividad de Contribuciones
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=romerocts&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -114,18 +127,11 @@ const dev = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Ver_mi_trabajo-3fb950?style=for-the-badge&labelColor=0d1117)](https://TU_PORTFOLIO.com)
+[![Email](https://img.shields.io/badge/✉_Email-Escríbeme-f78166?style=for-the-badge&labelColor=0d1117)](mailto:TU_CORREO@email.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-@romerocts-8b949e?style=for-the-badge&labelColor=0d1117)](https://github.com/romerocts)
 
 </div>
-
----
-
-## 📈 Actividad de Contribuciones
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -133,7 +139,7 @@ const dev = {
 
 ### ✨ ¿Tienes un proyecto interesante?
 
-**Estoy abierto a freelance, colaboraciones y oportunidades full-time.**
+**Estoy abierto a prácticas, freelance, colaboraciones y oportunidades junior.**
 ¡No dudes en escribirme!
 
 <br/>
@@ -142,8 +148,8 @@ const dev = {
 
 <br/>
 
-⚡ *"El código es poesía que las máquinas pueden entender."*
+*⚡ "El buen código no es solo el que funciona — es el que otros pueden entender y mejorar."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer)
 
 </div>
