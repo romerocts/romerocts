@@ -1,194 +1,149 @@
-/* 1. BASE Y TIPOGRAFÍA (Reset & Variables) */
-:root {
-    --color-primary: #007bff; /* Azul de acento vibrante */
-    --color-secondary: #ff6b6b; /* Rojo suave para CTA secundario */
-    --color-text-dark: #1a1a1a;
-    --color-bg-light: #f8f8fb; 
-    --font-family: 'Poppins', sans-serif;
-}
+<div align="center">
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+<!-- ══════════════════════════════════════════════════ -->
+<!--              👋 ENCABEZADO PRINCIPAL              -->
+<!-- ══════════════════════════════════════════════════ -->
 
-body {
-    font-family: var(--font-family);
-    line-height: 1.6;
-    color: var(--color-text-dark);
-    background-color: #fff; /* Fondo blanco puro */
-}
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5BTu+Nombre%5D+%F0%9F%91%8B;Full+Stack+Developer;Builder+de+soluciones+%F0%9F%9A%80;Open+to+Work+%F0%9F%92%BC)
 
-/* Utilidades de Contenedor y Espaciado */
-.container {
-    width: 85%;
-    max-width: 1200px;
-    margin: 0 auto;
-}
+<br/>
 
-.py-12 { padding-top: 4rem; padding-bottom: 4rem; }
-.py-20 { padding-top: 6rem; padding-bottom: 6rem; }
-.text-center { text-align: center; }
+<!-- ════ BADGES DE ESTADO ════ -->
+![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Disponible-brightgreen?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Ubicación-Colombia_🇨🇴-blue?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=58a6ff&label=Visitas+al+perfil)
 
-/* Botones (CTAs) */
-.cta-button {
-    display: inline-block;
-    padding: 12px 30px;
-    border: none;
-    cursor: pointer;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    transition: all 0.3s ease; /* Transición suave, clave del diseño moderno */
-}
+</div>
 
-/* Botón Principal (Primary) */
-.cta-button.primary {
-    background-color: var(--color-primary);
-    color: white;
-    border: 2px solid var(--color-primary);
-}
-.cta-button.primary:hover {
-    transform: translateY(-3px); /* Efecto de levitación */
-    box-shadow: 0 8px 15px rgba(0, 123, 255, 0.2);
-    background-color: #0056b3;
-}
+---
 
-/* Botón Secundario (Secondary) */
-.cta-button.secondary {
-    background-color: transparent;
-    border: 2px solid var(--color-text-dark);
-    color: var(--color-text-dark);
-}
-.cta-button.secondary:hover {
-    background-color: var(--color-text-dark);
-    color: white;
-}
+## 🧑‍💻 Sobre mí
 
+```typescript
+const dev = {
+  nombre:       "Tu Nombre",
+  rol:          "Full Stack Developer",
+  ubicacion:    "Colombia 🇨🇴",
+  disponible:   true,
+  buscando:     "Oportunidad remota / presencial Full Stack",
+  aprendiendo:  ["Cloud AWS", "AI/ML", "Arquitectura de microservicios"],
+  hobbies:      ["café ☕", "open source", "gaming 🎮", "leer sobre tech"],
+  contacto:     "tucorreo@email.com",
+};
+```
 
-/* ========================== SECCIÓN 1: HEADER ========================== */
-.main-header {
-    position: sticky; /* ¡CLAVE! Navbar que se queda pegado al scroll */
-    top: 0;
-    background: rgba(255, 255, 255, 0.9); /* Fondo semi-transparente para el efecto moderno */
-    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.05);
-    z-index: 100;
-}
+- 🔭 Actualmente trabajando en **proyectos freelance y contribuciones open source**
+- 🌱 Aprendiendo **Cloud, DevOps y arquitecturas escalables**
+- 💬 Pregúntame sobre **React, Node.js, Python, bases de datos, APIs REST**
+- 🤝 Abierto a **colaboraciones, proyectos freelance y oportunidades full-time**
+- ⚡ Fun fact: *Escribo código más rápido con café que sin él*
 
-.header-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 0;
-}
+---
 
-.logo {
-    font-size: 1.8rem;
-    font-weight: 800; /* Audaz */
-    text-decoration: none;
-    color: var(--color-text-dark);
-}
+## 🛠 Tech Stack
 
-nav ul {
-    list-style: none;
-    display: flex;
-    gap: 30px;
-}
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-nav a {
-    text-decoration: none;
-    color: var(--color-text-dark);
-    font-weight: 600;
-    transition: color 0.3s;
-}
-nav a:hover {
-    color: var(--color-primary);
-}
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-/* ========================== SECCIÓN 2: HERO ========================== */
-.hero-section {
-    height: 80vh; /* Ocupa la mayor parte de la vista */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-/* El fondo debe estar por debajo del contenido, pero lo superponemos con posicionamiento absoluto */
-.hero-background {
-    position: absolute;
-    top: 0; left: 0; width: 100%; height: 100%; 
-    background-size: cover;
-    background-position: center;
-    filter: brightness(0.8); /* Oscurece ligeramente la imagen para que el texto resalte */
-}
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-.hero-content {
-    z-index: 10; /* Asegura que el contenido esté visible sobre la imagen */
-    max-width: 700px;
-}
+---
 
-.hero-content h1 {
-    font-size: 4rem;
-    margin-bottom: 15px;
-    font-weight: 800; /* Muy audaz */
-}
+## 📊 GitHub Stats
 
-.subheadline {
-    font-size: 1.2rem;
-    color: #666;
-    margin-bottom: 30px;
-}
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-/* ========================== SECCIÓN 3: PRODUCTOS (GRID ASIMÉTRICO) ========================== */
-.product-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px; /* Espacio uniforme entre productos */
-}
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-.product-card {
-    background: #fff;
-    overflow: hidden;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-}
-/* Efecto de hover moderno en la tarjeta completa */
-.hover-effect:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1) !important;
-}
+</div>
 
-.product-card img {
-    width: 100%;
-    height: 350px; /* Altura fija para uniformidad visual */
-    object-fit: cover;
-    display: block;
-}
+<div align="center">
 
-/* Estilo de Producto grande (El toque creativo) */
-.large-item {
-    grid-column: span 2; /* Hace que este producto ocupe dos columnas */
-    display: flex;
-    flex-direction: column;
-    position: relative;
-}
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-.overlay-text {
-    background: var(--color-primary);
-    color: white;
-    padding: 30px;
-    transform: translateY(100%); /* Inicialmente oculto */
-    transition: transform 0.5s ease;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-/* JS debe añadir la clase 'active' para que esto funcione con el hover o scroll */
+</div>
 
+---
 
-/* ========================== SECCIÓN 4 & 5 (VALUE PROPOSITION & CTA) ========================== */
-.bg-light { background-color: var(--color-bg-light); }
+## 🏆 Trofeos GitHub
 
-.flex
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/TU_USUARIO/NOMBRE_REPO_1)
+[![AI Chat App](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/TU_USUARIO/NOMBRE_REPO_2)
+
+</div>
+
+> 💡 **¿Quieres ver más?** Revisa mis [repositorios públicos →](https://github.com/TU_USUARIO?tab=repositories)
+
+---
+
+## 🤝 Conecta conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+
+</div>
+
+---
+
+## 📈 Actividad de Contribuciones
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+### ✨ ¿Tienes un proyecto interesante?
+
+**Estoy abierto a freelance, colaboraciones y oportunidades full-time.**
+¡No dudes en escribirme!
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+⚡ *"El código es poesía que las máquinas pueden entender."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=100&section=footer)
+
+</div>
