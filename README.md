@@ -4,9 +4,9 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Disponible-brightgreen?style=for-the-badge&labelColor=0d1117)
-![Student](https://img.shields.io/badge/🎓_Ing._Sistemas-blue?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_Ubicación-Colombia_🇨🇴-orange?style=for-the-badge&labelColor=0d1117)
+![Open to Work](https://img.shields.io/badge/_Open_to_Work-Disponible-brightgreen?style=for-the-badge&labelColor=0d1117)
+![Student](https://img.shields.io/badge/_Ing._Sistemas-blue?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/_Ubicación-Colombia_🇨🇴-orange?style=for-the-badge&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=romerocts&style=for-the-badge&color=58a6ff&label=Visitas)
 
 </div>
@@ -21,18 +21,18 @@ const manuel = {
   rol:        "Full Stack Developer",
   carrera:    "Ingeniería de Sistemas,
   pasion:     "Frontend, diseño web & optimización de procesos",
-  buscando:   "Prácticas / Junior / Freelance 💼",
-  superpoder: "Optimizar procesos para mejorar el rendimiento ⚡",
+  buscando:   "Prácticas / Junior / Freelance ",
+  superpoder: "Optimizar procesos para mejorar el rendimiento ",
   github:     "https://github.com/romerocts",
 };
 ```
 
-- 🎨 Apasionado por el **diseño y desarrollo frontend** con React + TypeScript
-- 🚀 Desarrollo aplicaciones **full stack** con Node.js, Supabase y Firebase
-- 📱 Experiencia construyendo **apps móviles** con Flutter/Dart
-- 📊 Buen manejo de **análisis de datos**, consumo de APIs REST y Power BI
-- ⚡ Me obsesiona **optimizar procesos** para mejorar el rendimiento de cualquier sistema
-- 🤝 Abierto a **prácticas, freelance y oportunidades junior**
+-  Apasionado por el **diseño y desarrollo frontend** con React + TypeScript
+-  Desarrollo aplicaciones **full stack** con Node.js, Supabase y Firebase
+-  Experiencia construyendo **apps móviles** con Flutter/Dart
+-  Buen manejo de **análisis de datos**, consumo de APIs REST y Power BI
+-  Me obsesiona **optimizar procesos** para mejorar el rendimiento de cualquier sistema
+-  Abierto a **prácticas, freelance y oportunidades junior**
 
 ---
 
@@ -88,7 +88,7 @@ const manuel = {
 
 ---
 
-## 🏆 Trofeos
+##  Trofeos
 
 <div align="center">
 
@@ -98,7 +98,7 @@ const manuel = {
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <div align="center">
 
@@ -107,31 +107,31 @@ const manuel = {
 
 </div>
 
-### 📌 Descripción de Proyectos
+###  Descripción de Proyectos
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🛒 **SaaS E-Commerce** | Plataforma SaaS para emprendedores emergentes. Gestión de tienda, productos y ventas en línea. | React · Node.js · Supabase |
-| 📱 **NutriCare** | App móvil de nutrición y salud. Seguimiento de hábitos, análisis nutricional y metas personales. | Flutter · Dart · Supabase |
-| ✅ **To-Do App** | Gestor de tareas moderno con filtros, prioridades, etiquetas y persistencia de datos. | React · TypeScript · Vite |
+|  **SaaS E-Commerce** | Plataforma SaaS para emprendedores emergentes. Gestión de tienda, productos y ventas en línea. | React · Node.js · Supabase |
+|  **NutriCare** | App móvil de nutrición y salud. Seguimiento de hábitos, análisis nutricional y metas personales. | Flutter · Dart · Supabase |
+|  **To-Do App** | Gestor de tareas moderno con filtros, prioridades, etiquetas y persistencia de datos. | React · TypeScript · Vite |
 
-> 💡 **¿Quieres ver más?** → [Ver todos mis repositorios](https://github.com/romerocts?tab=repositories)
+>  **¿Quieres ver más?** → [Ver todos mis repositorios](https://github.com/romerocts?tab=repositories)
 
 ---
 
-## 📈 Actividad de Contribuciones
+##  Actividad de Contribuciones
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=romerocts&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🤝 Conecta conmigo
+##  Conecta conmigo
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Ver_mi_trabajo-3fb950?style=for-the-badge&labelColor=0d1117)](https://TU_PORTFOLIO.com)
 [![Email](https://img.shields.io/badge/✉_Email-Escríbeme-f78166?style=for-the-badge&labelColor=0d1117)](mailto:TU_CORREO@email.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-@romerocts-8b949e?style=for-the-badge&labelColor=0d1117)](https://github.com/romerocts)
+[![GitHub](https://img.shields.io/badge/_GitHub-@romerocts-8b949e?style=for-the-badge&labelColor=0d1117)](https://github.com/romerocts)
 
 </div>
 
@@ -139,7 +139,7 @@ const manuel = {
 
 <div align="center">
 
-### ✨ ¿Tienes un proyecto interesante?
+###  ¿Tienes un proyecto interesante?
 
 **Estoy abierto a prácticas, freelance, colaboraciones y oportunidades junior.**
 ¡No dudes en escribirme!
@@ -150,7 +150,7 @@ const manuel = {
 
 <br/>
 
-*⚡ "El buen código no es solo el que funciona — es el que otros pueden entender y mejorar."*
+* "El buen código no es solo el que funciona — es el que otros pueden entender y mejorar."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer)
 
