@@ -5,7 +5,7 @@
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Disponible-brightgreen?style=for-the-badge&labelColor=0d1117)
-![Student](https://img.shields.io/badge/🎓_Ing._Sistemas-8vo_Semestre-blue?style=for-the-badge&labelColor=0d1117)
+![Student](https://img.shields.io/badge/🎓_Ing._Sistemas-blue?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/📍_Ubicación-Colombia_🇨🇴-orange?style=for-the-badge&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=romerocts&style=for-the-badge&color=58a6ff&label=Visitas)
 
