@@ -19,7 +19,7 @@
 const manuel = {
   nombre:     "Manuel Romero",
   rol:        "Full Stack Developer",
-  carrera:    "Ingeniería de Sistemas — 8vo Semestre",
+  carrera:    "Ingeniería de Sistemas,
   pasion:     "Frontend, diseño web & optimización de procesos",
   buscando:   "Prácticas / Junior / Freelance 💼",
   superpoder: "Optimizar procesos para mejorar el rendimiento ⚡",
